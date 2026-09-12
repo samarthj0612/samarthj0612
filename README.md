@@ -1,56 +1,76 @@
 <h2 align="center">
-        <samp>&gt; Hey There!, I am
-                <b>
-                        <a target="_blank" href="https://www.linkedin.com/in/samarthjain02">Samarth Jain</a>
-                        <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">
-                </b>
-        </samp>
+  <samp>Hey there! 👋 I'm
+    <b>
+      <a target="_blank" href="https://www.linkedin.com/in/samarthjain02">
+        Samarth Jain
+      </a>
+    </b>
+  </samp>
 </h2>
 
-
-<p align="center"> 
+<p align="center">
   <samp>
-    「 A passionate software developer from <b>India</b> 」
-    <br>
+    Full Stack Developer | React.js • Next.js • Node.js
+    <br />
+    Building modern, scalable web applications
   </samp>
 </p>
 
 <p align="center">
   <a href="https://github.com/samarthj0612">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthj0612&theme=radical&border=7F3FBF&background=0D1117" alt="Samarth's GitHub streak"/>
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=samarthj0612&theme=radical&border=7F3FBF&background=0D1117"
+      alt="Samarth Jain's GitHub streak"
+    />
   </a>
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/samarthjain02" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="samarth"/>
- </a>
- <a href="https://www.instagram.com/_jain.samarth_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-FE0076?style=for-the-badge&logo=instagram&logoColor=white" alt="samarth"/>
- </a>
- <a href="https://leetcode.com/u/samarthj0612/" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-373737?style=for-the-badge&logo=leetcode&logoColor=F89F1B" alt="samarth"/>
- </a>
- <a href="https://www.hackerrank.com/profile/samarthj0612" target="_blank">
-  <img src="https://img.shields.io/badge/Hackerrank-068932?style=for-the-badge&logo=hackerrank&logoColor=white" alt="samarth"/>
- </a>
- <a href=mailto:samarthj0612@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="samarth"/>
- </a>
+  <a href="https://linkedin.com/in/samarthjain02" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://leetcode.com/u/samarthj0612/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LeetCode-373737?style=for-the-badge&logo=leetcode&logoColor=F89F1B"
+      alt="LeetCode"
+    />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/samarthj0612" target="_blank">
+    <img
+      src="https://img.shields.io/badge/HackerRank-068932?style=for-the-badge&logo=hackerrank&logoColor=white"
+      alt="HackerRank"
+    />
+  </a>
+
+  <a href="mailto:samarthj0612@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 </p>
 
-<h2>About</h2>
+<h2>About Me 👨‍💻</h2>
 
-A passionate technology enthusiast dedicated to exploring the ever-evolving world of technology. I thrive on discovering new advancements and pushing the boundaries of innovation. Sharing knowledge and experiences with others is something I deeply enjoy, as I believe in bridging the gap between technology and society.
+I'm a **Full Stack Developer** with nearly 3 years of experience building modern, scalable web applications using **React.js, Next.js, TypeScript, and Node.js**.
 
-As an innovative software developer, I specialize in creating efficient and scalable solutions for complex problems. With a keen eye for detail and a commitment to delivering high-quality code, I am driven by the belief that technology has the power to transform lives and create positive change on a global scale.
+I enjoy turning complex requirements into clean, maintainable solutions and continuously improving the way I build and ship software.
 
--  **Languages :** Java, JavaScript
--  **Learning :** Android Development📱
--  **Hobbies :** Problem solving, Listening Music🎧
--  **Fact :** First solve the problem, then write the code💗
+I'm naturally curious about the **ever-evolving world of technology** and enjoy exploring new tools, technologies, and approaches that can help me become a better developer.
 
-<em>I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.⚡</em>
+I also enjoy **sharing knowledge and experiences with others**. I believe that learning from different perspectives and exchanging ideas is one of the best ways to grow as a developer.
+
+### Currently
+
+- 🚀 Building full-stack applications with **React, Next.js, and Node.js**
+- 🐳 Exploring **Docker** and containerized deployments
+- ☸️ Learning **Kubernetes** and modern deployment practices
+- 🏗️ Improving my understanding of **backend architecture and system design**
 
 <h2>Tech Stack🛠</h2>
 
@@ -84,17 +104,23 @@ As an innovative software developer, I specialize in creating efficient and scal
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-<h2>My Stats</h2>
-<br>
+<h2>Activity 📊</h2>
+
 <p align="center">
   <a href="https://github.com/samarthj0612">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarthj0612&theme=radical" alt="Samarth's GitHub Contribution"/>
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarthj0612&theme=radical"
+      alt="Samarth Jain's GitHub activity"
+    />
   </a>
 </p>
 
-<!-- ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=samarthj0612&custom_title=Samarth%20Jain's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<a> 
-    <a href="https://github.com/samarthj0612"><img alt="Samarth's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=samarthj0612&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Samarth's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samarthj0612&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</a> -->
+<p align="center">
+  <a href="https://github.com/samarthj0612">
+    <img
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samarthj0612&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+      alt="Samarth Jain's Top Languages"
+      height="192px"
+    />
+  </a>
+</p>
